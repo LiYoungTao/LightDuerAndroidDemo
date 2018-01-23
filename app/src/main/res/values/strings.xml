@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LightDuerSampleApp</string>
+    <string name="err_net_msg">当前网络连接失败,请稍后重试</string>
+    <string name="voice_err_msg">识别失败，请稍后再试</string>
+    <string name="stop_record">停止说话</string>
+    <string name="start_record">开始录音</string>
+    <string name="press_speak">按住说话</string>
+    <string name="loose_stop">松开说话</string>
+    <string name="pause_play">暂停</string>
+    <string name="next_audio">下一首</string>
+    <string name="pre_audio">上一首</string>
+    <string name="set_success">%1$s成功</string>
+    <string name="request_error">出错了，请稍后再试</string>
+    <string name="title">下面展示返回结果</string>
+    <string name="audio_permission_error_msg">录音权限失败</string>
+    <string name="query">Query：%1$s</string>
+    <string name="directive_error_1">返回结果为空，发生错误！</string>
+    <string name="directive_error_2">返回结果解析错误，结果为：%1$s</string>
+    <string name="connect_success">连接成功！</string>
+    <string name="connect_fail">连接失败！</string>
+    <string name="profile_read_error">"未读取到可以用的profile文件"</string>
+</resources>
